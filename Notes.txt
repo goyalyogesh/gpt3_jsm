@@ -1,0 +1,9 @@
+npx create-react-app ./ 
+npm install react-icons
+npm start
+
+http://localhost:3000/
+
+Extensions:
+
+Prettier (Settings-> Format on Save), ES7+ React/Redux (rafce)
